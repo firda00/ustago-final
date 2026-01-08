@@ -1,0 +1,7 @@
+{
+  "description": "Premium Mobile Mechanics App with Geolocation and Master Dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "name": "UstaGo"
+}
